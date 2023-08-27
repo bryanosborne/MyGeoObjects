@@ -1,3 +1,6 @@
+/*
+* A good place for a comment header block
+*/
 package mygeoobjects;
 
 public abstract class GeometricObject{
